@@ -1,0 +1,58 @@
+#######################################
+# Syntax Coloring Map For Adafruit_GFX
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+Adafruit_GFX KEYWORD1
+Adafruit_GFX_Button KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+drawPixel	KEYWORD2
+drawLine	KEYWORD2
+drawFastVLine	KEYWORD2
+drawFastHLine	KEYWORD2
+drawRect	KEYWORD2
+fillRect	KEYWORD2
+fillScreen	KEYWORD2
+invertDisplay	KEYWORD2
+drawCircle	KEYWORD2
+drawArc	KEYWORD2
+ellipse	KEYWORD2
+drawBezier	KEYWORD2
+fillCircle	KEYWORD2
+drawTriangle	KEYWORD2
+fillTriangle	KEYWORD2
+drawQuad	KEYWORD2
+fillQuad	KEYWORD2
+drawPolygon	KEYWORD2
+drawRoundRect	KEYWORD2
+fillRoundRect	KEYWORD2
+drawBitmap	KEYWORD2
+drawXBitmap	KEYWORD2
+drawChar	KEYWORD2
+setCursor	KEYWORD2
+setTextColor	KEYWORD2
+setTextSize	KEYWORD2
+setTextWrap	KEYWORD2
+setRotation	KEYWORD2
+setFont	KEYWORD2
+getRotation	KEYWORD2
+height	KEYWORD2
+width	KEYWORD2
+initButton	KEYWORD2
+drawButton	KEYWORD2
+contains	KEYWORD2
+press	KEYWORD2
+isPressed	KEYWORD2
+justPressed	KEYWORD2
+justReleased	KEYWORD2
+#######################################
+# Constants (LITERAL1)
+#######################################
+
